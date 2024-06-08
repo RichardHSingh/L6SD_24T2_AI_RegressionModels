@@ -9,7 +9,7 @@ Following packages are necessary in order for those wanting to fork and/pr clone
 
 • <strong>Virtual Environment</strong><br>
   Syntax: python -m venv "name" --> python -m venv venv (it is industry practise to call the virtual environment venv)<br>
-  <i>Please make sure to activate the virtual enviroment --> venv\Scripts\activate<br><br>
+  <i>Please make sure to activate the virtual enviroment --> venv\Scripts\activate<br><br></i>
   
 • <strong>Pandas</strong><br>
   Syntax: pip install pandas<br><br>
